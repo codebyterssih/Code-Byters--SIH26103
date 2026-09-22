@@ -13,7 +13,7 @@ export function Card({
 }) {
   return (
     <div
-      className={`rounded-xl border bg-[var(--surface-1)] border-[var(--border-hairline)] ${className}`}
+      className={`rounded-xl border bg-[var(--surface-1)] border-[var(--border-hairline)] shadow-xs ${className}`}
       style={style}
     >
       {children}

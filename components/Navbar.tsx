@@ -8,7 +8,6 @@ const links = [
   { href: "/", label: "Command Center" },
   { href: "/tracker", label: "Resolution Tracker" },
   { href: "/memory", label: "Institutional Memory" },
-  { href: "/compare", label: "Model Lab" },
 ];
 
 export function Navbar() {
